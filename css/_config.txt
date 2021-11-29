@@ -1,1 +1,3 @@
 Descripcion: Este es un archivo de configuracionde de muestra.
+
+Resumen: Este sera otro arhchivo mas de muestra en el servidor, en espera de mas cambios
